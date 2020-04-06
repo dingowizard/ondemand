@@ -1,6 +1,6 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
 #+OPTIONS: toc:nil num:nil html-style:nil
-#+Title: NYP OnDemand Notes
+#+Title: OnDemand Notes
 #+TOC: headlines 1
 * Useful Phone Numbers
 ** Registration
