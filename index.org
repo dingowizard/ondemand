@@ -48,7 +48,7 @@
 ** Urology
    - 646 962 9600
 ** Vascular Surgery
-   - 646 962 8450>
+   - 646 962 8450
 * Situations
 ** Patients Heading to ER:
 *** What to tell patients:
@@ -57,6 +57,10 @@
     - Bring medication list
     - problem list
     - If patient does not speak English, help family member to write letter
+* Software/Technical
+#+TOC: headlines 1 local
+** Adding Telehealth Lists to AllScripts
+   - [[file:addingListToAllScripts.docx][instructions]]
 * Chief Complaints
 #+TOC: headlines 1 local
 ** Covid and covid-like sx................................................................................
