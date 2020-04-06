@@ -10,8 +10,8 @@
    - after 8pm: (212) 746-0604
 ** Pacific Interpreters
    - (800) 876-3059, code=836970
-** Referrals (see [[Referrals and Follow up][referrals section]])
-* <<Referrals and Follow up>>
+** Referrals (see [[referralTarget][referrals section]])
+* <<referralTarget>> Referrals and Follow up
 ** PA follow up for at-risk, symptomatic COVID patients at home:
    email CovidTeleFollowUP@med.cornell.edu, give patients their number 212 746 3262
 ** Coupons
