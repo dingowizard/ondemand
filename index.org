@@ -14,6 +14,7 @@
 * <<referralTarget>> Referrals and Follow up
 ** PA follow up for at-risk, symptomatic COVID patients at home:
    email CovidTeleFollowUP@med.cornell.edu, give patients their number 212 746 3262
+   CovidTeleFollowup@med.cornell.edu
 ** Coupons
    April2020, Adult: WCEA59042, Peds: WCEP10467
 ** Cardiology
@@ -50,6 +51,8 @@
 ** Vascular Surgery
    - 646 962 8450
 * Situations
+  CONTENTS
+#+TOC: headlines 1 local
 ** Patients Heading to ER:
 *** What to tell patients:
     - No visitors
@@ -57,11 +60,15 @@
     - Bring medication list
     - problem list
     - If patient does not speak English, help family member to write letter
+** Hospital Employees
+   - see [[covidFAQ][OnDemand COVID FAQ]]
 * Software/Technical
+  CONTENTS
 #+TOC: headlines 1 local
 ** Adding Telehealth Lists to AllScripts
    - [[file:addingListToAllScripts.docx][instructions]]
 * Chief Complaints
+  CONTENTS
 #+TOC: headlines 1 local
 ** Covid and covid-like sx................................................................................
 *** Dyspnea Exam
@@ -89,3 +96,48 @@
 ** coxsackie .
 ** hypertension .
 ** sore throat .
+* COVID-19 Info
+  CONTENTS
+#+TOC: headlines 1 local
+** <<covidFAQ>>OnDemand COVID FAQ
+*** 1. NYP Employees Who Are Concerned They Have COVID- like illness (CLI)
+    Employees who are mild to moderately ill should be advised to do home isolation for at least *7 days* from their *symptom onset date*, and they must be *fever-free for 72 hours* without the use antipyretics and their *symptoms must be improved* before returning to work. If symptomatic & at work, they should put on a mask and go home. Please see below regarding next steps.
+    
+     \ast{} *Source of exposure: confirmed COVID19 exposure at work ( by IPC & managers)*
+
+     Managers will submit confirmed list under IP&amp;C guidance. WHS will contact them. If they are not contacted by WHS after 2 business days, they will need to speak with directly with their own manager.
+     
+     \ast{} *Source of exposure: In the community.*
+
+     They will need a note that they sought care for CLI and they will need to call the WHS hotline for Return to Work (RTW) clearance. They should also update their mangers as well.  This note will be included as part of the discharge instructions template for NYP employees found on nexus. https://nexus.weill.cornell.edu/display/ED/COVID+Tele-medicine
+     *NYP Ondemand does not provide a RTW clearance only a note that they sought care for CLI*
+*** 2. NYP Employees are exposed to confirmed +COVID-19 (at work or in the community) and are WITHOUT symptoms
+    They can continue to work, while the are asymptomatic. Do *NOT send them home.* Advise them to *continue to work AND wear a surgical facemask throughout entire shift.* Use same surgical facemask all shift unless soiled or wet. Advise them to do so for *14 days* counting from the *date of last exposure.*
+    If they *develop symptoms* during that 14-day period, they should stay home, and call WHS. Advise them NOT to come to work/WHS even with mild symptoms.
+*** 3. When may a NYP Employee return to work (RTW)
+    *WHS will clear ALL employees.* Please have them call the WHS Hotline, those that have a *confirmed work exposure should received a call 2 days,* if they have community exposure or unconfirmed work exposure they should call WHS hotline.
+    How does the process work. On the 8th day of symptoms, WHS staff/clinician volunteers will call to check on their clinical status for possible RTW. In order to RTW, they must be *fever-free for 72 hours* without the use antipyretics and their *symptoms must be improved.* If they are clinically well enough to be cleared by WHS over the phone, then they will be advised to wear a regular surgical face mask for the entire shift while at work for *14 days* counting from their *symptom onset date.* Patients need contact their regarding RTW status.
+*** 4. How does the patient access their discharge instructions in the NOTES section in wrap up
+    Have the patient go to nypondemandvisits.org on a computer rather than phone and use same password / username they used on the phone to get these notes. Have them select MY Records tab on top and select previous visits to access the discharge instructions. Patient’s that enter the system through zocdoc will not be able to see the notes. The best way to tell if a patient came in through zocdoc or the ondemand app is to ask them: &quot;how did you join us today, by the NYP app or by zocdoc?&quot;. These patients will need to create mynyp.org account. Provider them with the name and verification code given when you print invitation under Allscripts. It is found under iNYP tab and profile, you will see on right pf the screen print invitation. Click on it and it will provide the verification code and name patient will need to create an account.
+*** 5. Need a note for an employer?
+    Nexus page has a template that you can copy and paste into wrap up note section.
+*** 6. HCW who want COVID testing
+    HCP with compatible symptoms should be *assumed to have COVID-19.* WHS is *no longer doing* COVID testing.
+*** 7. What Do I tell patients that wish to get tested
+    NYC DOHMH recently released Advisory that patients with "COVID-like illness not requiring hospitalization should not be tested and they be instructed to stay home. It is safer for the patients and health care workers and testing does not currently change clinical management or recommendations about staying home".
+*** 8. Patients Who are Concerned They Have COVID-19
+    Patients who are mild to moderately ill, with COVID like symptoms, please counsel the patient that they should assume they have COVID-19. Recommend home isolation for *7 days from their symptom onset date* and until they have *72-hours without fever AND resolving symptoms*. https://www.cdc.gov/coronavirus/2019-ncov/downloads/10Things.pdf
+*** 9. Discontinuation of Home Isolation
+    Recommend Home isolation for *7 days* from their *symptom onset date*, they must be *fever-free for 72 hours* and their *symptoms must be improved*. *If HCW* advised to wear a regular surgical face mask while at work for *14 days* counting from their *symptom onset date.*
+*** 10. Patient that are high risk that require follow up
+    We will have PAs M-F during business hours, Please provide the Name , MRN, DOB and a brief summary and contact number to Covidtelefollowup@med.cornell.edu. You may also give patients the follow up number 212-746-3262
+*** 11. Patients with that are dangerously ill with COVID-19 like symptoms
+    Refer the patient to Emergency Department. Any patient referred to hospital, please pre-notify the hospital and give warm hand-off. (warm hand off is a transfer of care between two members of health care team).
+    Patients with shortness of breath that require further evaluation should go to Emergency
+room.
+*** 12. How do they get to the Emergency Department
+    If the patient may get there on their own, they can go in a private car or with a car service with windows down and place a mask if they have one. If the hospital is in walking distance they can also walk. Upon arrival they should notify hospital staff they have been placed on isolation for concern for COVID.  If they need 911 stay with the patient. Have them call 911 from another phone (if available) if there is no second phone, call 911 yourself and ask for help getting to the 911 operator in the area where the patient is. Notify 911 dispatcher that patient of the concern for COVID like symptoms.
+*** 13. Patient calling without any symptoms
+    Recommend social distancing, that should stay at home to the extent possible and only leave home for essential tasks. All New Yorkers should consider themselves as possibly exposed to COVID and must therefore self-monitor for COVID-19 like illness. 14. Patient with confirmed positive exposure and they are not a HCW Recommend self-quarantine for 14 days since the last exposure.
+*** 15. Patient is anxious what resources are available
+    They may contact NYC Well at 888-NYC-WELL (888-692-9355) or text WELL to 65173. NYC Well is a confidential help line that is staffed 24/7 by trained counselors who can provide brief supportive therapy, crisis counseling, and connections to behavioral health treatment, in more than 200 languages.
