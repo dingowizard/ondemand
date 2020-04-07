@@ -3,8 +3,11 @@
 #+Title: OnDemand Notes
 #+TOC: headlines 1
 * Useful Phone Numbers
+  :PROPERTIES:
+  :CUSTOM_ID: TargetSection
+  :END:
   CONTENTS
-#+TOC: headlines 1 local
+#+TOC: headlines 1 local :target #TargetSection
 ** Registration
    Identify self as NYP OnDemand provider, ask for person who is handling registrations. Be ready w name, DOB, address, phone, complaint
    - weekdays:  (646) 697-0460
@@ -220,7 +223,7 @@
 ** sore throat .
 * COVID-19 Info
   CONTENTS
-#+TOC: headlines 1 local
+#+TOC: headlines 1 local :target #TargetSection
 ** <<covidFAQ>>OnDemand COVID FAQ
 *** 1. NYP Employees Who Are Concerned They Have COVID- like illness (CLI)
     Employees who are mild to moderately ill should be advised to do home isolation for at least *7 days* from their *symptom onset date*, and they must be *fever-free for 72 hours* without the use antipyretics and their *symptoms must be improved* before returning to work. If symptomatic & at work, they should put on a mask and go home. Please see below regarding next steps.
