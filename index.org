@@ -67,13 +67,14 @@
     - Montefiore Medical Center –CHAM 718-741-2150
 ** Pacific Interpreters
    - (800) 876-3059, code=836970
+** NYP Cornell Work Health Safety (WHS)
+   - 646-697-9470.
 ** Referrals (see [[referralTarget][referrals section]])
 * <<referralTarget>> Referrals and Follow up
   CONTENTS
 #+TOC: headlines 1 local
 ** PA follow up for at-risk, symptomatic COVID patients at home:
-   email CovidTeleFollowUP@med.cornell.edu, give patients their number 212 746 3262
-   CovidTeleFollowup@med.cornell.edu
+   email the patient's name, MRN, DOB and phone number to CovidTeleFollowUP@med.cornell.edu, give patients their number 212 746 3262
 ** Coupons
    April2020, Adult: WCEA59042, Peds: WCEP10467
 ** Specialty Referrals
@@ -115,11 +116,14 @@
 #+TOC: headlines 1 local
 ** Patients Heading to ER:
 *** What to tell patients:
-    - No visitors
-    - be ready with emergency contact
+    - Do not take public transportation
+    - if taking cab, wear mask, with windows open
+    - You may NOT have visitors at hospital
+    - Have your emergency contact info available
     - Bring medication list
-    - problem list
+    - and problem list
     - If patient does not speak English, help family member to write letter
+    - Warm hand off to ED: [[erContacts][NYC Emergency Dept Contact Numbers]]
 ** Need to call 911
    - if calling from within hospital, you may need operator or security (746 0911) to dial 911
    - tell patient to unlock door
@@ -137,9 +141,61 @@
   CONTENTS
 #+TOC: headlines 1 local
 ** Covid and covid-like sx................................................................................
+    CONTENTS
+  #+TOC: headlines 1 local
 *** Dyspnea Exam
     - [[https://drive.google.com/file/d/1Y18crrFOhJucIOZEYK3CYa2rYyuQTiK3/view][COVID19 Respiratory Reassessment - benign exam video]]
     - [[https://drive.google.com/file/d/1-zWOYfQqBwN8WN0j5YUOS8SqQxpCRkDg/view][COVID19 Respiratory Reassessment - severe exam video]]
+*** <<isolationInstructionsTarget>> Home Isolation Instructions
+    *GENERAL COVID-19 HOME ISOLATION DISCHARGE INSTRUCTION*
+
+    Based on the evaluation from our telemedicine visit, you have symptoms most likely consistent with COVID-19. Please read the following instructions carefully and initiate home isolation immediately. 
+
+    Seek prompt medical attention if your illness is worsening, such as if you are having difficulty breathing, feel short of breath or have chest pain when you move around normally at home, are unable to speak in full sentences without having to stop because you are winded, or have fewer than two urinations a day or other concerning symptoms. Put on a facemask before you enter any medical facility. These steps will help the medical facility keep other people from getting infected or exposed.
+
+    If you believe you have a medical emergency, call 911 and notify the dispatcher that you have or are being evaluated for COVID-19. Put on a facemask before emergency medical services arrive.
+
+    Symptoms may last as long as 1-2 weeks depending on your age and other health conditions that you may have.  
+
+    ***SELF-CARE INSTRUCTIONS***
+    - Rest as much as possible. Slowly start to do more each day.
+    - You can take acetaminophen (Tylenol) as per the instruction on the label for fever, body aches, cough, or headaches.
+    - Drink more liquids as directed to help thin and loosen mucus so it is easier to cough up. Liquids such as water, fruit juice, and broth also help keep you hydrated.
+    - Soothe a sore throat by gargling with warm salt water. Make salt water by dissolving ¼ teaspoon salt in 1 cup warm water. Older children and adults can also use throat lozenges, ice chips, or sore throat spray.
+    - Use a humidifier or vaporizer to increase air moisture in your home. This may make it easier to breathe and help decrease coughing.
+    - Use saline nasal drops as directed to relieve congestion.
+    - Apply petroleum-based jelly around the outside of nostrils to decrease irritation from blowing your nose.
+    - Do not smoke. Nicotine and other chemicals in cigarettes and cigars can make your symptoms worse.
+    - Do not vape.
+
+    ***HOME ISOLATION INSTRUCTIONS***
+    STAY HOME except to get medical care:
+    - Do not go outside at all, either to work, school, or public areas, such as stores or movie theaters.
+    - Do not use public transportation. If you have to take a car, wear a mask and leave the window open.
+    - Separate yourself from other people and pets in your home. Stay in a separate bedroom and use a separate bathroom, if available.
+    - Ask others to care for your animals.
+    - Wear a facemask when around other people or pets.
+    - Cover your coughs and sneezes with a tissue. Throw tissues away in trashcan lined with a plastic bag and clean your hands after you throw away the tissue.
+    - Clean your hands often with soap and water (for 20 seconds) or with hand sanitizer containing 60% to 95% alcohol. If using hand sanitizer with alcohol, cover all surfaces of your hands and rub hands together until they feel dry.
+    - Use soap and water if your hands are visibly dirty.
+    - Avoid touching your eyes, nose, and mouth. Clean your hands if you do touch your face.
+    - Do not share household items including cups, plates, eating utensils, towels, bedding, or clothes with other people or pets. After you use these items, wash them thoroughly with soap and water. 
+    - Clean “high-touch” surfaces each day such as counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables.
+    - Clean any surfaces that have blood, stool, or body fluids on them.
+    - Use household cleaning spray or wipe, according to the label instructions. Read cleaning product label instructions for safe and effective use of the cleaning product.
+
+    ***WHEN TO DISCONTINUE HOME ISOLATION***
+    When you have had no fever for at least 72 hours (that is three full days of no fever without the use medicine that reduces fevers) AND other symptoms have improved AND at least 7 days have passed since your symptoms first appeared.
+
+    ***FOR MORE INFORMATION***
+    - Discuss any additional questions with your healthcare provider.
+    - Visit the CDC website at www.cdc.gov
+    - Call the NYC Department of Health hotline at 1-888-364-3065 or through 311 for NYC-specific information, or NYS Novel Coronavirus (COVID-19) Hotline: 1-888-364-3065
+    - Call the NewYork-Presbyterian COVID-19 hotline at 646-697-4000 or visit https://www.nyp.org/coronavirus-information.
+
+    Westchester County Department of Health - 914-813-5159
+
+    CT: For up to date information on COVID-19 (the novel corona virus), you may call the Connecticut Department of Health at (860) 509-8000 or visit their website https://portal.ct.gov/Coronavirus. The local DOH for area patient is in: https://portal.ct.gov/DPH/Local-Health-Admin/LHA/Local-Health-Administration---Site-Map
 ** UTI .......
 ** rash .....
 ** ear pain/OM ....
@@ -207,3 +263,5 @@ room.
     Recommend social distancing, that should stay at home to the extent possible and only leave home for essential tasks. All New Yorkers should consider themselves as possibly exposed to COVID and must therefore self-monitor for COVID-19 like illness. 14. Patient with confirmed positive exposure and they are not a HCW Recommend self-quarantine for 14 days since the last exposure.
 *** 15. Patient is anxious what resources are available
     They may contact NYC Well at 888-NYC-WELL (888-692-9355) or text WELL to 65173. NYC Well is a confidential help line that is staffed 24/7 by trained counselors who can provide brief supportive therapy, crisis counseling, and connections to behavioral health treatment, in more than 200 languages.
+** Home Isolation Instructions:
+   [[isolationInstructionsTarget][here]]
