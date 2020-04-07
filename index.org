@@ -81,6 +81,8 @@
    email the patient's name, MRN, DOB and phone number to CovidTeleFollowUP@med.cornell.edu, give patients their number 212 746 3262
 ** Coupons
    April2020, Adult: WCEA59042, Peds: WCEP10467
+
+   Instruct patients to enter code in Invitation Code field at the beginning of their visit.
 ** Specialty Referrals
 *** Cardiology
     - 646 962 5558
@@ -141,6 +143,8 @@
 #+TOC: headlines 1 local
 ** Adding Telehealth Lists to AllScripts
    - [[file:addingListToAllScripts.docx][instructions]]
+** How to Document in Allscripts
+*** [[file:allscripts.pdf][Instructions]]
 * Chief Complaints
   CONTENTS
 #+TOC: headlines 1 local
