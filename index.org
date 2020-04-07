@@ -3,11 +3,68 @@
 #+Title: OnDemand Notes
 #+TOC: headlines 1
 * Useful Phone Numbers
+  CONTENTS
+#+TOC: headlines 1 local
 ** Registration
    Identify self as NYP OnDemand provider, ask for person who is handling registrations. Be ready w name, DOB, address, phone, complaint
    - weekdays:  (646) 697-0460
    - weekend:   (212) 746-4250
    - after 8pm: (212) 746-0604
+** <<erContacts>> NYC Emergency Dept. Numbers
+*** ADULT ERs
+**** MANHATTAN
+    - NYP –Weill Cornell Medicine 212-746-3701
+    - NYP –Columbia / Milstein 212-305-6204
+    - NYP –Allen Pavilion 212-932-4245
+    - NYP –Lower Manhattan Hospital 212-312-5701
+    - Mt. Sinai (UES)212-241-6639
+    - Mt. Sinai –Beth Israel 212-420-2840
+    - Mt. Sinai West / St. Lukes 212-523-4000
+    - NYU –Bellevue 212-562-8052
+    - Harlem Hospital Center 212-939-2250
+**** QUEENS
+    - NYP –Queens 718-670-1100
+    - Flushing Hospital Medical Center 718-670-5495
+    - Mt. Sinai -Elmhurst 718-334-3054
+    - Mt. Sinai –Hospital of Queens (LIC/Astoria)718-932-1000
+    - Northwell –LIJ 718-470-7500
+**** BROOKLYN
+    - NYP –Brooklyn Methodist 718-780-5555
+    - Coney Island Hospital347-563-6552
+    - SUNY –King’s County Hospital 718-245-4602 / 718-270-6315
+    - Woodhull Hospital 718-963-8442
+    - Maimonides Medical Center 718-283-1434
+**** BRONX
+    - Jacobi Medical Center 718-918-5800
+    - Lincoln Hospital 718-579-5200
+    - SBH Health System(St. Barnabas)718-960-9000 (connect to ER)
+    - North Central Bronx Hospital 718-519-3013
+    - Montefiore Medical Center 718-920-5731
+*** PEDS ERs
+**** MANHATTAN
+    - NYP –Weill Cornell Medicine 212-746-3300
+    - NYP –Morgan Stanley/CHONY 212-305-6628
+    - NYP –Lower Manhattan Hospital 212-312-5059
+    - Mt. Sinai (UES)–Kravis Children’s 212-241-7151
+    - Mt. Sinai –Beth Israel 212-420-2860
+    - NYU –Hassenfeld Children’s Hospital 646-341-2470/ 212-263-5550
+    - Harlem Hospital Center 212-939-2250
+**** QUEENS
+    - NYP –Queens 718-670-1947
+    - Flushing Hospital Medical Center 718-670-5495
+    - Mt. Sinai -Elmhurst 718-334-3054
+    - Northwell –Cohen’s 718-470-7500
+**** BROOKLYN
+    - NYP –Brooklyn Methodist 718-780-5555
+    - Coney Island Hospital347-563-6552
+    - SUNY –King’s County Hospital 718-245-4602
+    - Maimonides Medical Center 718-283-7230
+**** BRONX
+    - Jacobi Medical Center 718-918-5875
+    - Lincoln Hospital 718-579-5200
+    - SBH Health System(St. Barnabas) 718-960-9000 (connect to ER)
+    - North Central Bronx 718-519-3015
+    - Montefiore Medical Center –CHAM 718-741-2150
 ** Pacific Interpreters
    - (800) 876-3059, code=836970
 ** Referrals (see [[referralTarget][referrals section]])
@@ -60,6 +117,12 @@
     - Bring medication list
     - problem list
     - If patient does not speak English, help family member to write letter
+** Need to call 911
+   - if calling from within hospital, you may need operator or security (746 0911) to dial 911
+   - tell patient to unlock door
+   - wait with patient for EMS to arrive
+   - figure out with EMS which hospital patient is going to
+   - give warm hand-off to that ER. [[erContacts][NYC Emergency Room Contacts]]
 ** Hospital Employees
    - see [[covidFAQ][OnDemand COVID FAQ]]
 * Software/Technical
