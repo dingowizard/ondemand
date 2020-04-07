@@ -69,44 +69,47 @@
    - (800) 876-3059, code=836970
 ** Referrals (see [[referralTarget][referrals section]])
 * <<referralTarget>> Referrals and Follow up
+  CONTENTS
+#+TOC: headlines 1 local
 ** PA follow up for at-risk, symptomatic COVID patients at home:
    email CovidTeleFollowUP@med.cornell.edu, give patients their number 212 746 3262
    CovidTeleFollowup@med.cornell.edu
 ** Coupons
    April2020, Adult: WCEA59042, Peds: WCEP10467
-** Cardiology
-   - 646 962 5558
-** Dermatology
-   - (646) 962-3376
-** ENT
-   - 646 962 3681
-** GI
-   - 646 962 8462
-** OB/GYN
-   - 646 962 2229
-** Ophthalmology
-   - 646 962 2020
-** Ortho
-   - 212 746 1500
-** Primary Care
-   - 646 962 7300
-** Psychiatry/Mental Health
-   - google 'virtual mental health'
-   - 888 NYC WELL or
-   - Text WELL to 65173
-   - Access Service (all Presbyterian Mental Health Services) 888 694 5700
-   - Specialty Center (faculty on 62nd St): 646 962 2820
-   - Physicians' Organization (private pay): 888 694 2255
-** Pulmonary and Critical Care
-   - 646 962 2333
-** Rehab Medicine/Sports/Ortho/Spine
-   - 212 746 1500
-** Rheumatology
-   - 877 606 1555
-** Urology
-   - 646 962 9600
-** Vascular Surgery
-   - 646 962 8450
+** Specialty Referrals
+*** Cardiology
+    - 646 962 5558
+*** Dermatology
+    - (646) 962-3376
+*** ENT
+    - 646 962 3681
+*** GI
+    - 646 962 8462
+*** OB/GYN
+    - 646 962 2229
+*** Ophthalmology
+    - 646 962 2020
+*** Ortho
+    - 212 746 1500
+*** Primary Care
+    - 646 962 7300
+*** Psychiatry/Mental Health
+    - google 'virtual mental health'
+    - 888 NYC WELL or
+    - Text WELL to 65173
+    - Access Service (all Presbyterian Mental Health Services) 888 694 5700
+    - Specialty Center (faculty on 62nd St): 646 962 2820
+    - Physicians' Organization (private pay): 888 694 2255
+*** Pulmonary and Critical Care
+    - 646 962 2333
+*** Rehab Medicine/Sports/Ortho/Spine
+    - 212 746 1500
+*** Rheumatology
+    - 877 606 1555
+*** Urology
+    - 646 962 9600
+*** Vascular Surgery
+    - 646 962 8450
 * Situations
   CONTENTS
 #+TOC: headlines 1 local
