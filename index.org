@@ -123,7 +123,7 @@
     - Bring medication list
     - and problem list
     - If patient does not speak English, help family member to write letter
-    - Warm hand off to ED: [[erContacts][NYC Emergency Dept Contact Numbers]]
+*** Do warm hand off to ED: [[erContacts][NYC Emergency Dept Contact Numbers]]
 ** Need to call 911
    - if calling from within hospital, you may need operator or security (746 0911) to dial 911
    - tell patient to unlock door
