@@ -72,7 +72,8 @@
    - (800) 876-3059, code=836970
 ** NYP Cornell Work Health Safety (WHS)
    - 646-697-9470.
-** Referrals (see [[referralTarget][referrals section]])
+** Referrals
+   [[referralTarget][link]]
 * <<referralTarget>> Referrals and Follow up
   CONTENTS
 #+TOC: headlines 1 local
