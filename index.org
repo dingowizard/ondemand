@@ -120,7 +120,7 @@
 * Situations
   CONTENTS
 #+TOC: headlines 1 local
-** Patients Heading to ER:
+** Patients Heading to ER
 *** What to tell patients:
     - Do not take public transportation
     - if taking cab, wear mask, with windows open
@@ -148,10 +148,12 @@
 * Chief Complaints
   CONTENTS
 #+TOC: headlines 1 local
-** Covid and covid-like sx................................................................................
+** <<covidTarget>>Covid and covid-like sx................................................................................
     CONTENTS
   #+TOC: headlines 1 local
-*** Dyspnea Exam
+*** Guide to TeleHealth Assessment of COVID
+    [[file:teleCOVID.pdf][link]]
+*** Dyspnea Exam Videos
     - [[https://drive.google.com/file/d/1Y18crrFOhJucIOZEYK3CYa2rYyuQTiK3/view][COVID19 Respiratory Reassessment - benign exam video]]
     - [[https://drive.google.com/file/d/1-zWOYfQqBwN8WN0j5YUOS8SqQxpCRkDg/view][COVID19 Respiratory Reassessment - severe exam video]]
 *** <<isolationInstructionsTarget>> Home Isolation Instructions
@@ -204,6 +206,8 @@
     Westchester County Department of Health - 914-813-5159
 
     CT: For up to date information on COVID-19 (the novel corona virus), you may call the Connecticut Department of Health at (860) 509-8000 or visit their website https://portal.ct.gov/Coronavirus. The local DOH for area patient is in: https://portal.ct.gov/DPH/Local-Health-Admin/LHA/Local-Health-Administration---Site-Map
+*** AmWell COVID DC Instructions
+    [[file:amwellCovidDC.pdf][link]]
 ** UTI .......
 ** rash .....
 ** ear pain/OM ....
@@ -229,7 +233,9 @@
 * COVID-19 Info
   CONTENTS
   #+TOC: headlines 1 local
-** <<covidFAQ>>OnDemand COVID FAQ
+** Clinical Reference
+   [[covidTarget][link]]
+** <<covidFAQ>>NYP Employee COVID FAQ
 *** 1. NYP Employees Who Are Concerned They Have COVID- like illness (CLI)
     Employees who are mild to moderately ill should be advised to do home isolation for at least *7 days* from their *symptom onset date*, and they must be *fever-free for 72 hours* without the use antipyretics and their *symptoms must be improved* before returning to work. If symptomatic & at work, they should put on a mask and go home. Please see below regarding next steps.
     
@@ -271,5 +277,3 @@ room.
     Recommend social distancing, that should stay at home to the extent possible and only leave home for essential tasks. All New Yorkers should consider themselves as possibly exposed to COVID and must therefore self-monitor for COVID-19 like illness. 14. Patient with confirmed positive exposure and they are not a HCW Recommend self-quarantine for 14 days since the last exposure.
 *** 15. Patient is anxious what resources are available
     They may contact NYC Well at 888-NYC-WELL (888-692-9355) or text WELL to 65173. NYC Well is a confidential help line that is staffed 24/7 by trained counselors who can provide brief supportive therapy, crisis counseling, and connections to behavioral health treatment, in more than 200 languages.
-** Home Isolation Instructions:
-   [[isolationInstructionsTarget][here]]
